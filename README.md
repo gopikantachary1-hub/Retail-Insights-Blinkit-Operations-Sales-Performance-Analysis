@@ -2,16 +2,6 @@
 
 ➼ Project OverviewThis repository contains a comprehensive Power BI project analyzing the sales performance of Blinkit (formerly Grofers). The goal was to perform a deep dive into inventory distribution, outlet efficiency, and consumer ratings to provide actionable business insights for quick-commerce operations.
 
-➼ Tech Stack & Tools
-
-•  Data Visualization: Power BI Desktop   
-
-•  Data Transformation: Power Query (ETL)   
-
-•  Analytical Calculations: DAX (Data Analysis Expressions)   
-
-•  Data Source: Blinkit Export Data (2026)   
-
 ➼ Key Business Questions Addressed
 
 •  Sales Distribution: How do sales vary across different item types (e.g., Snacks vs. Household items)?   
@@ -39,3 +29,23 @@
 •  Geographic Trends: Visualized the dominance of specific location tiers in the quick-commerce market.   
 
 •  Rating Correlation: Found patterns between item visibility on the app and the resulting customer feedback scores.
+
+➼ The Dashboard was built using the following tools and technologies:
+
+   • Power BI Deskop : Main data visualization performance used for report creation.
+   
+   • Power Query : Data transformation and cleaning layer for reshaping and preparing the data.
+   
+   • Dax (Data Analysis Expression) : Used for calculated measures, dynamics visuals and conditional logic.
+   
+   • Data Modeling : Relationship establish among (listings, cities, reviews).
+   
+   • File Format : .pbix for development and .png for dashboard previews.
+
+➼ Data Source :
+   Kaggle.com
+
+➼ Screenshots
+
+   ![Dashboard Preview](https://github.com/gopikantachary1-hub/Global-Airbnb-Performance-Dashboard/blob/main/Screenshot%20of%20dashboard_1.png)
+
