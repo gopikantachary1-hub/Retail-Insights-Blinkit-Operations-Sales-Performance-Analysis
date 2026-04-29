@@ -30,6 +30,8 @@
 
 •  Rating Correlation: Found patterns between item visibility on the app and the resulting customer feedback scores.
 
+
+
 ➼ The Dashboard was built using the following tools and technologies:
 
    • Power BI Deskop : Main data visualization performance used for report creation.
